@@ -10,7 +10,7 @@ $(document).ready(function(){
 
     $('#humancondition')
 	.mouseover(function() {
-		$('body').css('background', 'url(https://media.giphy.com/media/63erJDAX1rYE8/giphy.gif) repeat left fixed');
+		$('body').css('background', 'url(https://media.giphy.com/media/l2QZV9r5az0AKurja/giphy.gif) repeat left fixed');
         $('body').css('background-size', '');
     })
     .mouseout(function() {
